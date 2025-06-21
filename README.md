@@ -70,3 +70,14 @@ npm run start
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 🎉
+
+---
+
+## 🙏 Credits
+
+This project was originally based on an open-source repository.  
+Special thanks to the original creator for the base structure and idea.  
+Original source: [AWS-Session](https://github.com/verma-kunal/AWS-Session.git)
+
+Deployment setup and modifications by [Sreeraj EK](https://github.com/ek-sreeraj47)
+
